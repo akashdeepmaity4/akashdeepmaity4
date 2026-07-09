@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 17 year old interested in how multiple systems or languages <br>cooperate with each other. I started my tech journey with core coding <br> I am currently learning the shipment, management and maintainance processes to break into system designing and SysOps.
+I'm a 17 year old interested in how multiple systems or languages <br>cooperate with each other. I started my tech journey with core coding <br> I am currently learning the shipment, management and maintainance processes<br> to break in into system designing and SysOps.
 
 
 ## 🌐 Socials:
