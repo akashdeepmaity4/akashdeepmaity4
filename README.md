@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 17 year old interested in how multiple systems or languages <br>cooperate with each other. I started my tech journey with core coding <br> I am currently learning the development, management and scaling processes<br> to break in into CLoud Engineering or Solutions Architecture.
+I'm a 17 year old interested in how multiple systems or languages <br>cooperate with each other. I started my tech journey with core coding, <br> I am currently learning the development, management and scaling processes<br> to break in into Cloud Engineering or Solutions Architecture.
 
 
 ## 🌐 Socials:
