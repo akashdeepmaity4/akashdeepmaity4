@@ -10,5 +10,4 @@ I'm a 17 year old interested in how multiple systems or languages <br>cooperate 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akashdeepmaity4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=akashdeepmaity4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akashdeepmaity4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=akashdeepmaity4&theme=dark&hide_border=false)
