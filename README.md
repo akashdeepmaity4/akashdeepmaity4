@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a 17 year old interested in how multiple systems or languages <br>cooperate with each other. I started my tech journey with core coding, <br> I am currently learning the development, management and scaling processes<br> to break in into Cloud Engineering or Solutions Architecture.
 
-
 ## 🌐 Socials:
 [![Leetcode](https://img.shields.io/badge/LeetCode-404040?logo=Leetcode&logoColor=orange)](https://leetcode.com/akashdeepmaity4) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedIn&logoColor=white)](https://linkedin.com/in/akashdeepmaity96) 
